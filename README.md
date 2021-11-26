@@ -1,4 +1,4 @@
 - 👋 Xin chào, tớ là Khoa Nguyễn
 - 👀 Tớ hiện tại là một software developer
-- 🌱 Tớ có sử dụng C, C++, C# và một số ngôn ngữ khác
+- 🌱 Tớ có sử dụng C, C++, Python và một số ngôn ngữ khác
 - 📫 Contact với tớ tại facebook.com/fb.khoanguyen
