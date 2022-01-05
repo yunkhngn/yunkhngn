@@ -11,6 +11,8 @@
 - 📫 Contact with me by a direct message facebook.com/youngboiCoder
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngboiCoder&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Khoa Nguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngboiCoder)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
