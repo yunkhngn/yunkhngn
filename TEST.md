@@ -22,3 +22,7 @@
 [facebook]: https://facebook.com/youngboiCoder
 [instagram]: https://instagram.com/_youngboicoder
 
+<br />
+
+### Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngboiCoder&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
