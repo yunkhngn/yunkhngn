@@ -10,8 +10,10 @@
 - 🌱 I use most of those languages including C, C++, Python.
 - 📫 Contact with me by a direct message facebook.com/youngboiCoder
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngboiCoder&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Khoa Nguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngboiCoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngboiCoder&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+[![Khoa Nguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngboiCoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
@@ -45,14 +47,26 @@ I mostly use these language as a Software Developer, Front-end Developer.
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngboiCoder&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngboiCoder&hide=css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Repository and Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/youngboiCoder/Quan-Li-Hoc-Sinh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Quan-Li-Hoc-Sinh&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/youngboiCoder/Seller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Seller&theme=dark" />
+</a>
+<a href="https://github.com/youngboiCoder/Covid19-API-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Covid19-API-Application&theme=dark" />
+</a>
+<a href="https://github.com/youngboiCoder/Weather-Forecast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Weather-Forecast&theme=dark" />
+</a>
+<a href="https://github.com/youngboiCoder/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=portfolio&theme=dark" />
+</a>
+<a href="https://github.com/youngboiCoder/Virtual-Assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Virtual-Assistant&theme=dark" />
 </a>
