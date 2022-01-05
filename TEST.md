@@ -10,11 +10,15 @@
 - 🌱 I use most of those languages including C, C++, Python.
 - 📫 Contact with me by a direct message facebook.com/youngboiCoder
 
+<br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngboiCoder&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 [![Khoa Nguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngboiCoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+<br />
 
 ### Connect with me:
 
@@ -26,6 +30,7 @@
 [facebook]: https://facebook.com/youngboiCoder
 [instagram]: https://instagram.com/_youngboicoder
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -49,8 +54,12 @@ I mostly use these language as a Software Developer, Front-end Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngboiCoder&hide=css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+<br />
 
 ### Repository and Projects
+
+Here are those common repositories that I've worked on.
 
 <a href="https://github.com/youngboiCoder/Quan-Li-Hoc-Sinh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Quan-Li-Hoc-Sinh&theme=dark" />
