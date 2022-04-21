@@ -1,31 +1,31 @@
-### Hi there, I'm Khoa Nguyen - aka [youngboiCoder][website] 👋 
+### Hi there, I'm Khoa Nguyen - aka [yunkhngn][website] 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fyoungboicoder.github.io/portfolio)](https://youngboicoder.github.io/portfolio)
-[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/youngboiCoder)](https://www.facebook.com/youngboiCoder)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fyunkhngn.github.io/portfolio)](https://yunkhngn.github.io/portfolio)
+[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/yun.khngn)](https://www.facebook.com/yun.khngn)
 
 ## I'm a Software Developer, Designer and 3D Artist!!
 
 ### VIE:
-- 👋 Xin chào, tớ là Khoa Nguyễn, nick name của tớ là youngboiCoder
+- 👋 Xin chào, tớ là Khoa Nguyễn, nick name của tớ là yunkhngn
 - 👀 Tớ hiện tại là một software developer/designer
 - 🌱 Tớ có sử dụng C, C++, Python và một số ngôn ngữ khác
-- 📫 Contact với tớ tại facebook.com/youngboiCoder
+- 📫 Contact với tớ tại facebook.com/yun.khngn
 
 ### ENG:
 
 - 👋 Hello, I'm Khoa Nguyen, as known as youngboiCoder
 - 👀 Currently i'm a software developer/designer
 - 🌱 I use most of those languages including C, C++, Python.
-- 📫 Contact with me by a direct message facebook.com/youngboiCoder
+- 📫 Contact with me by a direct message facebook.com/yun.khngn
 
 
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngboiCoder&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunkhngn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-[![Khoa Nguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngboiCoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Khoa Nguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunkhngn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -33,13 +33,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="youngboiCoder.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="youngboiCoder | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="youngboiCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="khoanguyen.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="yunk.hngn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="yun.khngn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://youngboicoder.github.io/portfolio
-[facebook]: https://facebook.com/youngboiCoder
-[instagram]: https://instagram.com/_youngboicoder
+[website]: https://www.khoanguyen.dev/
+[facebook]: https://facebook.com/yun.khngn
+[instagram]: https://instagram.com/yun.khngn_
 
 <br />
 <br />
@@ -75,22 +75,22 @@ I mostly use these language as a Software Developer, Front-end Developer.
 
 Here are those common repositories that I've worked on.
 
-<a href="https://github.com/youngboiCoder/Quan-Li-Hoc-Sinh">
+<a href="https://github.com/yunkhngn/Quan-Li-Hoc-Sinh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Quan-Li-Hoc-Sinh&theme=dark" />
 </a>
-<a href="https://github.com/youngboiCoder/Seller">
+<a href="https://github.com/yunkhngn/Seller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Seller&theme=dark" />
 </a>
-<a href="https://github.com/youngboiCoder/Covid19-API-Application">
+<a href="https://github.com/yunkhngn/Covid19-API-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Covid19-API-Application&theme=dark" />
 </a>
-<a href="https://github.com/youngboiCoder/Weather-Forecast">
+<a href="https://github.com/yunkhngn/Weather-Forecast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Weather-Forecast&theme=dark" />
 </a>
-<a href="https://github.com/youngboiCoder/portfolio">
+<a href="https://github.com/yunkhngn/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=portfolio&theme=dark" />
 </a>
-<a href="https://github.com/youngboiCoder/Virtual-Assistant">
+<a href="https://github.com/yunkhngn/Virtual-Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Virtual-Assistant&theme=dark" />
 </a>
 
