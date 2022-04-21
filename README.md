@@ -23,10 +23,6 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunkhngn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-
-[![Khoa Nguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunkhngn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ---
@@ -64,7 +60,7 @@ I mostly use these language as a Software Developer, Front-end Developer.
 <br />
 <a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngboiCoder&hide=css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunkhngn&hide=css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <br>
@@ -76,22 +72,22 @@ I mostly use these language as a Software Developer, Front-end Developer.
 Here are those common repositories that I've worked on.
 
 <a href="https://github.com/yunkhngn/Quan-Li-Hoc-Sinh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Quan-Li-Hoc-Sinh&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Quan-Li-Hoc-Sinh&theme=dark" />
 </a>
 <a href="https://github.com/yunkhngn/Seller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Seller&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Seller&theme=dark" />
 </a>
 <a href="https://github.com/yunkhngn/Covid19-API-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Covid19-API-Application&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Covid19-API-Application&theme=dark" />
 </a>
 <a href="https://github.com/yunkhngn/Weather-Forecast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Weather-Forecast&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Weather-Forecast&theme=dark" />
 </a>
 <a href="https://github.com/yunkhngn/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=portfolio&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=portfolio&theme=dark" />
 </a>
 <a href="https://github.com/yunkhngn/Virtual-Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youngboicoder&repo=Virtual-Assistant&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Virtual-Assistant&theme=dark" />
 </a>
 
 <br>
