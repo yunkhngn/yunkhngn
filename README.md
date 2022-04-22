@@ -1,6 +1,6 @@
 ### Hi there, I'm Khoa Nguyen - aka [yunkhngn][website] 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fyunkhngn.github.io/portfolio)](https://yunkhngn.github.io/portfolio)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fwww.khoanguyen.dev)](https://www.khoanguyen.dev)
 [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/yun.khngn)](https://www.facebook.com/yun.khngn)
 
 ## I'm a Software Developer, Designer and 3D Artist!!
