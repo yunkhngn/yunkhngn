@@ -1,24 +1,18 @@
-### Hi there, I'm Khoa Nguyen - aka [yunkhngn][website] 👋 
+
+![dino](https://user-images.githubusercontent.com/44545000/168491799-abde2092-271b-4546-9a62-a1debe6cddf8.gif)
+
+### Hi there, I'm Khoa Nguyen - aka yunkhngn 👋 
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fwww.khoanguyen.dev)](https://www.khoanguyen.dev)
 [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/yun.khngn)](https://www.facebook.com/yun.khngn)
 
 ## I'm a Software Developer, Designer and 3D Artist!!
 
-### VIE:
-- 👋 Xin chào, tớ là Khoa Nguyễn, nick name của tớ là yunkhngn
-- 👀 Tớ hiện tại là một software developer/designer
-- 🌱 Tớ có sử dụng C, C++, Python và một số ngôn ngữ khác
-- 📫 Contact với tớ tại facebook.com/yun.khngn
-
-### ENG:
-
-- 👋 Hello, I'm Khoa Nguyen, as known as youngboiCoder
-- 👀 Currently i'm a software developer/designer
-- 🌱 I use most of those languages including C, C++, Python.
-- 📫 Contact with me by a direct message facebook.com/yun.khngn
-
-
+- 👋 Hello, I'm Khoa Nguyen, as known as yunkhngn.
+- 👀 Currently i'm a software developer/designer.
+- 🌱 I use most of those languages including Javascript, C/C++, Python...
+- ☕ And some of popular framework such as React, Nextjs and some material libraries,...
+- 📫 Get in touch with me by sending a direct message to [me](facebook.com/yun.khngn).
 
 <br />
 
@@ -26,20 +20,6 @@
 <br>
 
 ---
-
-### Connect with me:
-
-[<img align="left" alt="khoanguyen.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="yunk.hngn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="yun.khngn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[website]: https://www.khoanguyen.dev/
-[facebook]: https://facebook.com/yun.khngn
-[instagram]: https://instagram.com/yun.khngn_
-
-<br />
-<br />
-
 ### Languages and Tools:
 
 I mostly use these language as a Software Developer, Front-end Developer.
@@ -64,32 +44,3 @@ I mostly use these language as a Software Developer, Front-end Developer.
 </a>
 
 <br>
-
----
-
-### Repository and Projects
-
-Here are those common repositories that I've worked on.
-
-<a href="https://github.com/yunkhngn/Quan-Li-Hoc-Sinh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Quan-Li-Hoc-Sinh&theme=dark" />
-</a>
-<a href="https://github.com/yunkhngn/Seller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Seller&theme=dark" />
-</a>
-<a href="https://github.com/yunkhngn/Covid19-API-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Covid19-API-Application&theme=dark" />
-</a>
-<a href="https://github.com/yunkhngn/Weather-Forecast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Weather-Forecast&theme=dark" />
-</a>
-<a href="https://github.com/yunkhngn/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=portfolio&theme=dark" />
-</a>
-<a href="https://github.com/yunkhngn/Virtual-Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yunkhngn&repo=Virtual-Assistant&theme=dark" />
-</a>
-
-<br>
-
----
