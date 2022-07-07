@@ -6,6 +6,11 @@
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fwww.khoanguyen.dev)](https://www.khoanguyen.dev)
 [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/yun.khngn)](https://www.facebook.com/yun.khngn)
 
+<br />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunkhngn&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+
 ## I'm a Software Developer, Designer and 3D Artist!!
 
 - 👋 Hello, I'm Khoa Nguyen, as known as yunkhngn.
@@ -13,11 +18,6 @@
 - 🌱 I use most of those languages including Javascript, C/C++, Python...
 - ☕ And some of popular framework such as React, Nextjs and some material libraries,...
 - 📫 Get in touch with me by sending a direct message to [me](facebook.com/yun.khngn).
-
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunkhngn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 
 ---
 ### Languages and Tools:
