@@ -2,6 +2,8 @@
   <img src="svg/khoanguyendev.svg" width="1200" alt="khoanguyendev-official" />
 </a>
 
+<br>
+
 <h2 align="center">🧑‍💻 Something about me 🧑‍💻</h2>
 <br>
 <h3 align="center">👋 Hello, I'm Khoa Nguyen, as known as yunkhngn.</h3>
