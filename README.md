@@ -10,7 +10,7 @@
 <h3>- 👀 Currently i'm a software developer/designer.</h3>
 <h3>- 🌱 I use most of those languages including Javascript, C/C++, Python...</h3>
 <h3>- ☕ And some of popular framework such as React, Nextjs and some material libraries,...</h3>
-<h3>- 📫 Get in touch with me by sending a direct message to [me](facebook.com/yun.khngn).</h3>
+<h3>- 📫 Get in touch with me by sending a direct message to <a href="https://m.me/yun.khngn/" target="_blank">me</a>.</h3>
 <br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
