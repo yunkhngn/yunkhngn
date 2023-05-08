@@ -75,25 +75,11 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.khoanguyen.dev" target="blank">
-    <img width="96" height="96" src="https://img.icons8.com/fluency/96/000000/internet.png" alt="khoanguyendev-blog" />
-  </a>
   <a href="https://facebook.com/yunkhngn" target="blank">
     <img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" alt="khoanguyendev-facebook" />
   </a>
   <a href="https://instagram.com/yun.khngn_" target="blank">
     <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="khoanguyendev-instagram" />
-  </a>
-  <a href="https://twitter.com/yunkhngn" target="blank">
-    <img src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="khoanguyendev-twitter" />
-  </a>
-  <!-- linkedin -->
-  <a href="https://linkedin.com/in/yunkhngn" target="blank">
-    <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="khoanguyendev-linkedin" />
-  </a>
-  <!-- behance -->
-  <a href="https://www.behance.net/yunkhngn" target="blank">
-    <img src="https://img.icons8.com/fluency/96/000000/behance.png" alt="khoanguyendev-behance" />
   </a>
   <!-- github -->
   <a href="https://github.com/yunkhgn" target="blank">
