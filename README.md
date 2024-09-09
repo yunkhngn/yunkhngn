@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/khoanguyendev.svg" width="1200" alt="khoanguyendev-official" />
+  <img src="svg/khoanguyen.svg" width="1200" alt="khoanguyen-official" />
 </a>
 
 <br>
@@ -7,11 +7,11 @@
 <h2 align="center">🧑‍💻 Something about me 🧑‍💻</h2>
 <br>
 <h3 align="center">👋 Hello, I'm Khoa Nguyen, as known as yunkhngn.</h3>
-<h3>- 👀 Currently i'm a software developer/designer.</h3>
-<h3>- 🌱 I use most of those languages including Javascript, C/C++, Python...</h3>
-<h3>- ☕ And some of popular framework such as React, Nextjs and some material libraries,...</h3>
-<h3>- 🎸 I play guitars and do music stuffs too</h3>
-<h3>- 📫 Get in touch with me by sending a direct message to <a href="https://m.me/yun.khngn/" target="_blank">me</a>.</h3>
+<h3>- 👀 I'm a software engineer/graphic designer.</h3>
+<h3>- 🌱 I use most of those languages including Javascript, C++, Python, Java...</h3>
+<h3>- ☕ And some of popular framework such as ReactJS, NextJS and some material libraries,...</h3>
+<h3>- 🎸 I play guitars and do music stuffs</h3>
+<h3>- 📫 Find me in <a href="https:www.khoanguyen.codes/" target="_blank">here</a>.</h3>
 <br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -19,19 +19,14 @@
 <!-- https://simpleicons.org/ --> 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=1f1f1f1f" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp;
@@ -39,17 +34,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Blender-282C34?logo=blender&logoColor=F5792A" alt="Blender logo" title="Blender" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel" height="25" /></span>
 &nbsp;
 
 <br>
@@ -67,15 +59,19 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/yunkhngn" target="blank">
-    <img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" alt="khoanguyendev-facebook" />
+  <a href="https://facebook.com/yun.khngn" target="blank">
+    <img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" alt="khoanguyen-facebook" />
   </a>
   <a href="https://instagram.com/yun.khngn" target="blank">
-    <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="khoanguyendev-instagram" />
+    <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="khoanguyen-instagram" />
   </a>
   <!-- github -->
   <a href="https://github.com/yunkhgn" target="blank">
-    <img src="https://img.icons8.com/fluency/96/000000/github.png" alt="khoanguyendev-github" />
+    <img src="https://img.icons8.com/fluency/96/000000/github.png" alt="khoanguyen-github" />
+  </a>
+  <!-- behance -->
+  <a href="https://behance.net/yunkhngn_" target="blank">
+    <img src="https://img.icons8.com/fluency/96/000000/behance.png" alt="khoanguyen-behance" />
   </a>
 </div>
 
@@ -84,7 +80,7 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/khoanguyendev-quotes.svg" width="846" height="150" alt="khoanguyendev-official" />
+  <img src="svg/khoanguyen-quotes.svg" width="846" height="150" alt="khoanguyen-official" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/44545000/168491799-abde2092-271b-4546-9a62-a1debe6cddf8.gif">

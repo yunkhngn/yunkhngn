@@ -17,10 +17,12 @@
           line-height: 1.6;
 				}
         .quotes-eng {
-          font-size: 18px;
+          font-size: 16px;
+		  word-wrap: break-word;
         }
         .quotes-vi {
-          font-size: 18px;
+          font-size: 16px;
+		  word-wrap: break-word;
         }
         .signature {
           font-size: 16px;
@@ -28,8 +30,8 @@
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"Musics tasted good when they are not well known."</div>
-        <div class="quotes-vi">"Nhạc chỉ hay khi nó là indie."</div>
+        <div class="quotes-eng">"Your future belongs to those who believe in the beauty of their dreams..."</div>
+        <div class="quotes-vi">"Tương lai thuộc về những người tin vào vẻ đẹp trong chính những giấc mơ, hoài bão to lớn của mình..."</div>
         <div class="signature">-yunkhngn-</div>
       </div>
 		</div>
