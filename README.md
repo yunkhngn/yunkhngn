@@ -44,4 +44,4 @@
 <hr/>
 <img src="https://user-images.githubusercontent.com/44545000/168491799-abde2092-271b-4546-9a62-a1debe6cddf8.gif" style="border-radius:5px; margin-top:20px">
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunkhngn/yunkhngn/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunkhngn/yunkhngn/output/github-contribution-grid-snake-dark.svg" />
