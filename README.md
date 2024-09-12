@@ -2,14 +2,14 @@
   <img src="svg/khoanguyen.svg" width="1200" alt="khoanguyen-official" />
 </a>
 
-<h2 align="center">🧑‍💻 Little bit about me 🧑‍💻</h2>
-<div>
+<h2 align="center">🧑‍💻 I'm Khoa Nguyen from Hanoi 🎸</h2>
+<div align="center">
 <h3 align="center">👋 Hello, I'm Khoa Nguyen, as known as yunkhngn.</h3>
-<h3>- 👀 I'm a software engineer/graphic designer.</h3>
-<h3>- 🌱 I use most of those languages including Javascript, C++, Python, Java...</h3>
-<h3>- ☕ And some of popular framework such as ReactJS, NextJS and some material libraries,...</h3>
-<h3>- 🎸 I play guitars and do music stuffs.</h3>
-<h3>- 📫 Find me in <a href="https:www.khoanguyen.codes/" target="_blank">here</a>.</h3>
+<h3>👀 I'm a software engineer/graphic designer.</h3>
+<h3>🌱 I use most of Javascript, C++, Python, Java...</h3>
+<h3>☕ And some of popular framework like ReactJS, NextJS,...</h3>
+<h3>🎸 I play guitars and do music stuffs.</h3>
+<h3>📫 Find me in <a href="https:www.khoanguyen.codes/" target="_blank">here</a> or down here.</h3>
 </div>
 <div align="center"> 
 <a href="https://khoanguyen.codes" target="_blank">
@@ -25,14 +25,13 @@
     <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git,photoshop,ai,pr,blender" />
     <img src="https://skillicons.dev/icons?i=mui,python,vscode,github,express,firebase,cpp,java,threejs,vercel,xd" /><br>
 </div>
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+<h2 align="center">🔥 My GitHub Stats 🔥</h2>
 <br>
 <div align=center>
   <a href="#" title="Yunkhngn">
@@ -41,4 +40,4 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/44545000/168491799-abde2092-271b-4546-9a62-a1debe6cddf8.gif">
+<img src="https://user-images.githubusercontent.com/44545000/168491799-abde2092-271b-4546-9a62-a1debe6cddf8.gif" style="border-radius:5px; margin-top:20px">
