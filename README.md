@@ -28,8 +28,8 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git,photoshop,ai,pr,blender" />
-    <img src="https://skillicons.dev/icons?i=mui,python,vscode,github,express,firebase,cpp,java,threejs,vercel,xd" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git,photoshop,ai,pr,xd" />
+    <img src="https://skillicons.dev/icons?i=mui,python,vscode,github,express,firebase,npm,java,threejs,vercel,blender,cloudflare" /><br>
 </div>
 
 <h2 align="center">🔥 My GitHub Stats and Contributions 🔥</h2>
