@@ -24,6 +24,7 @@
   <a href="https://www.behance.net/yunkhngn_" target="_blank">
     <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
   </a>
+    <img src="https://komarev.com/ghpvc/?username=yunkhngn&style=for-the-badge" target="_blank" />
 </div>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br/>
