@@ -9,10 +9,10 @@
 <h3>🌱 I use most of Javascript, C++, Python, Java...</h3>
 <h3>☕ And some of popular framework like ReactJS, NextJS,...</h3>
 <h3>🎸 I play guitars and do music stuffs.</h3>
-<h3>📫 Find me in <a href="https:www.khoanguyen.codes/" target="_blank">here</a> or down here.</h3>
+<h3>📫 Find me in <a href="https://yunkhngn.dev/" target="_blank">here</a> or down here.</h3>
 </div>
 <div align="center"> 
-<a href="https://khoanguyen.codes" target="_blank">
+<a href="https://yunkhngn.dev" target="_blank">
      <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=1f1f1f" target="_blank" />
   </a>
   <a href="https://www.facebook.com/yun.khngn/">
