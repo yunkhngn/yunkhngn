@@ -2,13 +2,13 @@
   <img src="svg/khoanguyen.svg" width="1200" alt="khoanguyen-official" />
 </a>
 
-<h2 align="center">🧑‍💻 I'm Khoa Nguyen from Hanoi 🎸</h2>
+<h2 align="center">🧑‍💻 I'm yunkhngn from Hanoi 🎸</h2>
 <div align="center">
-<h3 align="center">👋 Hello, I'm Khoa Nguyen, as known as yunkhngn.</h3>
-<h3>👀 I'm a software engineer/graphic designer.</h3>
-<h3>🌱 I use most of Javascript, C++, Python, Java...</h3>
+<h3 align="center">👋 Hii, I'm Khoa Nguyen, as known as yunkhngn.</h3>
+<h3>👀 I'm a Software Engineer / Graphic Designer / Guitarist.</h3>
+<h3>🌱 I use most of Javascript, Python, Java...</h3>
 <h3>☕ And some of popular framework like ReactJS, NextJS,...</h3>
-<h3>🎸 I play guitars and do music stuffs.</h3>
+<h3>🎸 I play guitars and do musical stuffs.</h3>
 <h3>📫 Find me in <a href="https://yunkhngn.dev/" target="_blank">here</a> or down here.</h3>
 </div>
 <div align="center"> 
@@ -20,9 +20,6 @@
   </a>
   <a href="https://www.instagram.com/yun.khngn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/yunkhngn_" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
   </a>
     <img src="https://komarev.com/ghpvc/?username=yunkhngn&style=for-the-badge" target="_blank" />
 </div>
@@ -43,4 +40,4 @@
 </div>
 <br>
 <hr/>
-<img src="https://user-images.githubusercontent.com/44545000/168491799-abde2092-271b-4546-9a62-a1debe6cddf8.gif" style="border-radius:5px; margin-top:20px">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW5kbHltcm9kdHpld2t1NXlzZHZnbjNzZHZidDUxcXl5Yzh4MGZsdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fbZ41qQ9NqnJ0klRbs/giphy.gif" style="border-radius:5px; margin-top:20px; width:100%">
