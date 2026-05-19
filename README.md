@@ -55,7 +55,7 @@ I’m <strong>Khoa Nguyen (yun.khngn)</strong>, and this is my personal space to
 </div>
 <br>
 <hr/>
-<h3 align="center">My Mood When Coding</h3>
+<h3 align="center">My Mood When Vibe Coding</h3>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUwcTMwemF5ZnllNjdiNzIzc3VtZjVuc2I2aWhrc3hoM3liaHdjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fiDQBKYcIJBgZWWWzj/giphy.gif" width="100%">
 </p>
