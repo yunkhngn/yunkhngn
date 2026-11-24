@@ -5,7 +5,7 @@
 <div align="center">
 <h3 align="center">Hi, I'm Khoa Nguyen, as known as yunkhngn.</h3>
 <q>
-I’m <strong>Khoa Nguyen (yun.khngn)</strong>, and this is my personal space to document <i>what I build, what I learn, and how I grow</i> - through <strong>code, creativity, and curiosity</strong>. It’s a place where I share my ongoing journey, from small experiments to long-term projects, and the lessons I collect along the way.
+I’m <strong>Khoa Nguyen (yunkhngn)</strong>, and this is my personal space to document <i>what I build, what I learn, and how I grow</i> - through <strong>code, creativity, and curiosity</strong>. It’s a place where I share my ongoing journey, from small experiments to long-term projects, and the lessons I collect along the way.
 </q>
 
 <h4 align="center">Find me in <a href="https://yunkhngn.dev/" target="_blank">here</a> or down below.</h4>
@@ -15,10 +15,10 @@ I’m <strong>Khoa Nguyen (yun.khngn)</strong>, and this is my personal space to
 <a href="https://yunkhngn.dev" target="_blank">
      <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=1f1f1f" target="_blank" />
   </a>
-  <a href="https://www.facebook.com/yun.khngn/">
+  <a href="https://www.facebook.com/yunkhngn/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yun.khngn/">
+  <a href="https://www.instagram.com/yunkhngn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
     <img src="https://komarev.com/ghpvc/?username=yunkhngn&style=for-the-badge" target="_blank" />
